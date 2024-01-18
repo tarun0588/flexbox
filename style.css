@@ -1,0 +1,26 @@
+.dark{
+     background-color: rgb(24, 24, 136);
+     text-align: center;
+     padding: 30px;
+     color: white;
+     font-family: sans-serif;
+     border-bottom: 5px solid rgb(179, 107, 31);
+ 
+ }
+ 
+ .container{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: center;
+     gap: 15px;
+     margin: 0 auto;
+     width: 1000px;
+     padding: 20px 10px;
+ }
+ .image{
+     border-radius: 8px;
+     height: 300px;
+     width: 400px;
+     
+ }
